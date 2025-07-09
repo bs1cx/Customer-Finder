@@ -40,8 +40,11 @@ Excel'e aktarmak için "Excel'e Aktar" butonunu kullanın
 Kullanılan Kütüphaneler:
 
 import requests       # Web istekleri için
+
 from bs4 import BeautifulSoup  # HTML parsing
+
 import pandas as pd   # Excel işlemleri
+
 import tkinter as tk  # GUI arayüzü
 
 Regex Patternleri:
