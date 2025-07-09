@@ -35,19 +35,19 @@ Excel'e aktarmak için "Excel'e Aktar" butonunu kullanın
 ⚙️ Teknik Detaylar
 Kullanılan Kütüphaneler:
 
-python
 import requests       # Web istekleri için
 from bs4 import BeautifulSoup  # HTML parsing
 import pandas as pd   # Excel işlemleri
 import tkinter as tk  # GUI arayüzü
+
 Regex Patternleri:
 
-python
 # Telefon numarası bulma:
 r'(\+?\d[\d\s-]{7,}\d)'
 
 # Sosyal medya çıkarma:
 r'instagram\.com/([A-Za-z0-9_.]+)'
+
 🌟 Proje Geliştirme
 Katkıda bulunmak için:
 
@@ -63,5 +63,10 @@ Bu araç eğitim amaçlıdır. Google'ın ToS'unu ihlal etmemek için:
 Tarama hızını düşük tutun (dk'da 5-10 istek)
 
 Resmi API'leri tercih edin
+
+## 📌 Versiyonlar
+| Versiyon | Yenilikler          |
+|----------|---------------------|
+| v4.0     | Sosyal medya modülü |
 
 
