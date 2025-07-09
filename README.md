@@ -3,7 +3,6 @@
 **Google'dan Otomatik İşletme Verisi Toplama Aracı**  
 Python ile geliştirilen bu GUI uygulaması, Google arama sonuçlarından işletme bilgilerini (ad, adres, telefon, kategori, website, sosyal medya) çıkararak Excel'e aktarır.
 
-![BusinessBot Screenshot](https://i.imgur.com/YOUR_SCREENSHOT_LINK_HERE.png)
 
 ## 🔍 Özellikler
 - **Çoklu Veri Kaynağı:** Google Maps ve standart arama sonuçlarını tarar
