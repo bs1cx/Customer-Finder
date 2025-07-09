@@ -21,9 +21,13 @@ Python ile geliştirilen bu GUI uygulaması, Google arama sonuçlarından işlet
    ```bash
    pip install requests beautifulsoup4 pandas tkinter
 
+Kurulum
+
    python business_bot.py
 
-   🎯 Kullanım
+
+🎯 Kullanım
+
 Arayüzde işletme türünü girin (Örn: "restoran", "kuaför")
 
 Konum bilgisini ekleyin (Örn: "Kadıköy, İstanbul")
