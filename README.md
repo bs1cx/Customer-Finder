@@ -1,4 +1,4 @@
-# BusinessBot v4.0 🚀
+# BusinessBot 🚀
 
 **Google'dan Otomatik İşletme Verisi Toplama Aracı**  
 Python ile geliştirilen bu GUI uygulaması, Google arama sonuçlarından işletme bilgilerini (ad, adres, telefon, kategori, website, sosyal medya) çıkararak Excel'e aktarır.
